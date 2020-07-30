@@ -1,7 +1,7 @@
 # Human Evaluation
 We evaluated the statistics of unanswerable data in the extractive QA setting. The table below shows the unanswerable rate in all batches of 7B test datasets only for factoid and list type questions. We calculated the rate as a criterion of _Ground Truth Answer cannot be exactly match in Human Annotated Corpus (Snippet)_.
 
-Here are the result sampled from the BioASQ Challenge Task 7B (Phase B) test dataset.
+Here are the result table from the BioASQ Challenge Task 7B (Phase B) test dataset.
 Type | 7B Batch1 | 7B Batch2 | 7B Batch3 | 7B Batch4 | 7B Batch5 | 7B Total
 ---|:---:|:---:|:---:|:---:|:---:|:---:
 Factoid | 0.359 (14/39) | 0.120 (3/25) | 0.310 (9/29) | 0.118 (4/34) | 0.229 (8/35) | 0.216 (35/162)
