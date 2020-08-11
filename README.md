@@ -53,7 +53,31 @@ And several unanswerable cases : (<b>Bold</b> and <ins>underline</ins> denotes n
     ID : 5c9a6693ecadf2e73f000031
     Question : What is a mitosome?
     Ground Truth Answer : <b>Simple and anaerobic mitochondria.</b>
-    Context : Mitosomes are the <b>simplest</b> and the least well-studied type of <b>anaerobic mitochondria.</b> 
+    Context : Mitosomes are the <b>simplest</b> and the least well-studied type of <b>anaerobic mitochondria.</b>
+    <br />
+    <br />
+    ID : 5c34ad63da8336e21a000007
+    Question : Which genomic positions are preferentially selected for transposon insertion?
+    Ground Truth Answer : <b>non coding DNA, heterochromatin</b> 
+    Context : The FISH analysis of the pepper Tat elements showed a random distribution in <b>heterochromatic</b> and euchromatic regions, whereas the tomato Tat elements showed heterochromatin-preferential accumulation
+    <br />
+    <br />
+    ID : 5c632542e842deac6700000d
+    Question : Which approach was used to diagnose a patient with Cutis Verticis Gyrata-Intellectual Disability (CVG-ID) syndrome?
+    Ground Truth Answer : <ins>Magnetic Resonance Imaging,</ins> <b>MRI</b> 
+    Context : Here, we report a patient with CVG-ID that was diagnosed using the novel approach of <ins>magnetic resonance imaging</ins> and we conduct a systematic review of all patients reported in the last 60 years, discussing the core clinical features of this syndrome.
+    <br />
+    <br />
+    ID : 5c7839edd774d04240000003
+    Question : When is serum AFP used as marker?
+    Ground Truth Answer : <ins>in HCC,</ins> <b>Hepato cellular carcinoma</b>
+    Context : AFP serum were considered independent predictors for macrovascular invasion <ins>in HCC</ins> patients
+    <br />
+    <br />
+    ID : 5c51fe8907ef653866000007
+    Question : What is the percentage of individuals at risk of dominant medically actionable disease?
+    Ground Truth Answer : <b>1/38,</b> <ins>2.7%</ins>
+    Context : Our study shows that 1 in 38 healthy individuals (<ins>2.7%</ins>) has a (likely) pathogenic variant in one of 59 medically actionable dominant disease genes for which the American College of Medical Genetics and Genomics (ACMG) recommends disclosure.
   </code>
 </pre>
 </details>
